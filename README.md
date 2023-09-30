@@ -8,6 +8,8 @@
 
  **How to use:**
 
+ Note: This addon works by pasting it in the console, or uploading it in Tampermonkey.
+
 ![image](https://github.com/TotallyRealElonMusk/GeoFS-Pushback/assets/72507855/04dd7c93-6564-4417-8a3f-6b0ee7a475b1)
 
  The pushback addon operates only on certain aircraft (see complete list below). To spawn the truck, click on the **PUSHBACK** button on the top of the screen, next to the **AUTOPILOT** toggle. This will open an external window with the controls. 
